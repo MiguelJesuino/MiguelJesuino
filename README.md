@@ -1,7 +1,7 @@
 <img src="https://www.pngkey.com/png/full/666-6663236_blue-header-png-6-png-image-blue.png" width="1200" height="200">
 
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00fffb&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Miguel;I'm+17+years+old;I+from+Brasil,+SP;I+study+systems+development+at+Sequencial;Be+Welcome!+:%29)](https://git.io/typing-svg)  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00fffb&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Miguel;I'm+17+years+old;I+from+Brasil,+SP;I+study+systems+development+at+NovoTech;Be+Welcome!+:%29)](https://git.io/typing-svg)  
 <br><br>
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=MiguelJesuino&show_icons=true&count_private=true&hide_border=true&title_color=1E90FFF&icon_color=00FFFF&text_color=00FFFF&bg_color=0d1117" alt="Miguel Carvalho Stats" /> 
