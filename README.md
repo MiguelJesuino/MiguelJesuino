@@ -5,8 +5,7 @@
 <br><br>
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=MiguelJesuino&show_icons=true&count_private=true&hide_border=true&title_color=00FFFF&icon_color=00FFFF&text_color=00FFFF&bg_color=0d1127" alt="Miguel Carvalho Stats" /> 
-    <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelJesuino&layout=compact&hide_border=true&title_color=00FFFF&text_color=00bfbf&bg_color=0d1227" />
-
+  <img width="50%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelJesuino&layout=compact&hide_border=true&title_color=00FFFF&text_color=00bfbf&bg_color=0d1227" />
 </div>
 <br>
 
@@ -23,7 +22,7 @@
 <br>
 
 <div align="center"> 
-<a href="https://instagram.com/miguelcarvalho1801_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-0A7777?style=for-the-badge&logo=instagram&logoColor=white"</a>
+<a href="https://instagram.com/miguelcarvalho1801_" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 <a href = "mailto:tech.miguelcarvalho@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-FF0000?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/miguel-carvalho-b40b08287/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
 </div>
