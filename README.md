@@ -10,7 +10,7 @@
 <br>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MiguelJesuino&theme=discord&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=MiguelJesuino&theme=discord&row=1&no-bg=true&column=6&margin-w=15&margin-h=15" />
   <img width="400" src="https://www.e2msolutions.com/wp-content/uploads/2021/10/page-banner-img.png">
 </p>
 
