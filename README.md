@@ -1,6 +1,4 @@
-<img src="https://www.pngkey.com/png/full/666-6663236_blue-header-png-6-png-image-blue.png" width="1200" height="200">
 
-  
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00fffb&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Miguel;I'm+17+years+old;I+from+Brasil,+SP;I+study+systems+development+at+NovoTech;Be+Welcome!+:%29)](https://git.io/typing-svg)  
 <br><br>
 <div align="center">  
@@ -26,4 +24,3 @@
 <a href="https://www.linkedin.com/in/tech-miguelcarvalho" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
 </div>
 
- <img src="https://www.pngkit.com/png/full/167-1670699_footer-wave-blue-page-divider-png.png" width="1200" height="200">
