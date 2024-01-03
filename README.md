@@ -21,7 +21,8 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=ps,html,css,bootstrap,javascript,jquery,selenium" /><br>
   <img src="https://skillicons.dev/icons?i=eclipse,java,maven,mysql,php,nodejs,python" /><br>
-  <img src="https://skillicons.dev/icons?i=bash,docker,linux,md,git,github,stackoverflow,replit" />
+  <img src="https://skillicons.dev/icons?i=bash,docker,linux,md,git,github,stackoverflow" /><br>
+  <img src="https://skillicons.dev/icons?i=replit" />
 </p>
 
 
