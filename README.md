@@ -16,7 +16,7 @@
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MiguelJesuino&bg_color=0d1117&color=00e1ff&line=00fffb&point=d6f3ff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <br>
 
-<h3 align="center">Languages and Other Knowledge</h3>
+<h2 align="center">Languages and Other Knowledge</h2>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=ps,html,css,bootstrap,javascript,jquery,selenium" /><br>
