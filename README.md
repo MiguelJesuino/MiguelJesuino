@@ -13,6 +13,10 @@
 </p>
 <br><br>
 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MiguelJesuino&bg_color=0d1117&color=00e1ff&line=00fffb&point=d6f3ff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<br><br>
+
 ## <p align='center'>Languages and Other Knowledge</p>
 
 <div align="center">
@@ -25,7 +29,6 @@
     </p>
 </div>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MiguelJesuino&bg_color=0d1117&color=00e1ff&line=00fffb&point=d6f3ff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <br>
 <br>
 <div align="center"> 
