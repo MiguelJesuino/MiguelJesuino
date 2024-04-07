@@ -15,9 +15,6 @@
 </p>
 <br><br>
 
-
-<br><br>
-
 ## <p align='center'>Languages and Other Knowledge</p>
 
 <div align="center">
@@ -37,3 +34,5 @@
 <a href="https://www.linkedin.com/in/tech-miguelcarvalho" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
 </div>
 
+#
+<img align="left" width="999" src="https://hostastay.com/wp-content/uploads/2019/09/footer-1500x430.png">
