@@ -1,9 +1,11 @@
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00fffb&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Miguel;I'm+18+years+old;I+from+Brasil,+SP;I+study+;Be+Welcome!+:%29)](https://git.io/typing-svg)  
+<img align="left" width="999" src="https://static.vecteezy.com/system/resources/thumbnails/035/777/782/small/orange-gold-header-header-design-element-free-png.png">
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff8917&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Miguel;I'm+18+years+old;I+from+Brasil,+SP;I+study+;Be+Welcome!+:%29)](https://git.io/typing-svg)  
 <br><br>
 <div align="center">  
-  <img width="48%" height="195px" src="https://github-readme-stats.vercel.app/api?username=MiguelJesuino&show_icons=true&count_private=true&hide_border=true&title_color=00FFFF&icon_color=00FFFF&text_color=00FFFF&bg_color=0d1127" alt="Miguel Carvalho Stats" /> 
-  <img width="50%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelJesuino&layout=compact&hide_border=true&title_color=00FFFF&text_color=00bfbf&bg_color=0d1227" />
+  <img width="48%" height="195px" src="https://github-readme-stats.vercel.app/api?username=MiguelJesuino&show_icons=true&count_private=true&hide_border=true&title_color=00FFFF&icon_color=00FFFF&text_color=ff8917&bg_color=0d1127" alt="Miguel Carvalho Stats" /> 
+  <img width="50%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelJesuino&layout=compact&hide_border=true&title_color=ff8917&text_color=ff8917&bg_color=0d1227" />
 </div>
 <br>
 <h2 align="center">GitHub Trophies</h2>
@@ -13,7 +15,6 @@
 </p>
 <br><br>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MiguelJesuino&bg_color=0d1117&color=00e1ff&line=00fffb&point=d6f3ff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <br><br>
 
