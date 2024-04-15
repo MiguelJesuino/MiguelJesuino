@@ -7,8 +7,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=04a1b4&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Miguel;I'm+18+years+old;I+from+Brasil,+SP;I+study+;Be+Welcome!+:%29)](https://git.io/typing-svg)  
 <br><br>
 <div align="center">  
-  <img width="48%" height="195px" src="https://github-readme-stats.vercel.app/api?username=MiguelJesuino&show_icons=true&count_private=true&hide_border=true&title_color=04a1b4&icon_color=ff8917&text_color=04a1b4&bg_color=000000" alt="Miguel Carvalho Stats" /> 
-  <img width="50%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelJesuino&layout=compact&hide_border=true&title_color=ff8917&text_color=04a1b4&bg_color=000000" />
+  <img width="48%" height="195px" src="https://github-readme-stats.vercel.app/api?username=MiguelJesuino&show_icons=true&count_private=true&hide_border=true&title_color=04a1b4&icon_color=04a1b4&text_color=04a1b4&bg_color=000000" alt="Miguel Carvalho Stats" /> 
+  <img width="50%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelJesuino&layout=compact&hide_border=true&title_color=04a1b4&text_color=04a1b4&bg_color=000000" />
 </div>
 <br>
 <h2 color="black" align="center">GitHub Trophies</h2>
@@ -16,7 +16,7 @@
 <br><br>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MiguelJesuino&theme=oldie&row=1&bg=true&column=6&margin-w=15&margin-h=15&bg_color=000" />
+  <img src="https://github-profile-trophy.vercel.app/?username=MiguelJesuino&theme=darkhub&row=1&bg=true&column=6&margin-w=15&margin-h=15&bg_color=000" />
 </p>
 <br><br>
 
