@@ -10,9 +10,9 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MiguelJesuino&bg_color=000000&color=04a1b4&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<div align="right">  
-    <img align=left width="40%" src="https://img.freepik.com/fotos-premium/cone-minimalista-do-programador-logotipo-digital-preto-e-branco-do-homem_899449-88233.jpg">
+<div align="right"> 
     <img width="48%" height="195px" src="https://github-readme-stats.vercel.app/api?username=MiguelJesuino&show_icons=true&count_private=true&hide_border=true&title_color=04a1b4&icon_color=04a1b4&text_color=04a1b4&bg_color=000000" alt="Miguel Carvalho Stats"/> 
+    <img align=left width="40%" src="https://img.freepik.com/fotos-premium/cone-minimalista-do-programador-logotipo-digital-preto-e-branco-do-homem_899449-88233.jpg">
     <img width="51%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelJesuino&layout=compact&hide_border=true&title_color=04a1b4&text_color=04a1b4&bg_color=000000" />
 </div>
 <br><br>
