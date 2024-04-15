@@ -13,7 +13,6 @@
 <div align="right">  
     <img align=left width="35%" src="https://img.freepik.com/fotos-premium/cone-minimalista-do-programador-logotipo-digital-preto-e-branco-do-homem_899449-88233.jpg">
     <img width="48%" height="195px" src="https://github-readme-stats.vercel.app/api?username=MiguelJesuino&show_icons=true&count_private=true&hide_border=true&title_color=04a1b4&icon_color=04a1b4&text_color=04a1b4&bg_color=000000" alt="Miguel Carvalho Stats"/> 
-    <br>
     <img width="51%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelJesuino&layout=compact&hide_border=true&title_color=04a1b4&text_color=04a1b4&bg_color=000000" />
 </div>
 <br><br>
