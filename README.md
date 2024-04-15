@@ -40,4 +40,4 @@
 </div>
 
 #
-<img align="left" width="999" src="https://www.sliit.lk/wp-content/uploads/2017/10/black-line-footer.png">
+<img align="left" width="999" src="https://www.pngkey.com/png/full/147-1471061_branding-design-development-clip-art.png">
