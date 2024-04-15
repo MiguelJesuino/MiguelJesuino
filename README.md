@@ -12,8 +12,8 @@
 
 
 <div align="center"> 
-    <img width="48%" height="195px" src="https://github-readme-stats.vercel.app/api?username=MiguelJesuino&show_icons=true&count_private=true&hide_border=true&title_color=04a1b4&icon_color=04a1b4&text_color=04a1b4&bg_color=000000" alt="Miguel Carvalho Stats"/> 
-    <img width="51%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelJesuino&layout=compact&hide_border=true&title_color=04a1b4&text_color=04a1b4&bg_color=000000" />
+    <img width="48%" height="195px" src="https://github-readme-stats.vercel.app/api?username=MiguelJesuino&show_icons=true&count_private=true&hide_border=true&title_color=04a1b4&icon_color=07e9a5&text_color=04a1b4&bg_color=000000" alt="Miguel Carvalho Stats"/> 
+    <img width="51%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelJesuino&layout=compact&hide_border=true&title_color=04a1b4&text_color=07e9a5&bg_color=000000" />
 </div>
 <br><br>
 
