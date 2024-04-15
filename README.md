@@ -13,8 +13,10 @@
 <br>
 <h2 color="black" align="center">GitHub Trophies</h2>
 
+<br><br>
+
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MiguelJesuino&theme=discord&row=1&no-bg=true&column=6&margin-w=15&margin-h=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=MiguelJesuino&theme=oldie&row=1&bg=true&column=6&margin-w=15&margin-h=15&bg_color=000" />
 </p>
 <br><br>
 
@@ -38,4 +40,4 @@
 </div>
 
 #
-<img align="left" width="999" src="https://hostastay.com/wp-content/uploads/2019/09/footer-1500x430.png">
+<img align="left" width="999" src="https://www.sliit.lk/wp-content/uploads/2017/10/black-line-footer.png">
