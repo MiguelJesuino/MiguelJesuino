@@ -6,7 +6,7 @@
 <br><br>
 <br><br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=07e9a5&size=45&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Miguel;I'm+18+years+old;I+from+Brasil,+SP;I+study+Computational+science;Be+Welcome!+:%29)](https://git.io/typing-svg)  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=07E9C7&size=45&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Miguel;I'm+18+years+old;I+from+Brasil,+SP;I+study+Computational+science;Be+Welcome!+:%29)](https://git.io/typing-svg)  
 
 <br><br>
 
@@ -37,4 +37,4 @@
 <img align="left" width="999" src="https://www.pngkey.com/png/full/147-1471061_branding-design-development-clip-art.png">
 
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MiguelJesuino&bg_color=000000&color=04a1b4&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MiguelJesuino&bg_color=000000&color=07E9C7&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
