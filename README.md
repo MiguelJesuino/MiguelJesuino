@@ -18,17 +18,6 @@
 <br><br>
 
 
-## <p align='center'>Languages and Other Knowledge</p>
-
-<div align="center">
-    <p align="">
-      <img src="https://skillicons.dev/icons?i=ps,html,css,bootstrap,javascript,jquery,selenium,eclipse,java,maven,mysql,php,nodejs" /><br>
-      <img src="https://skillicons.dev/icons?i=python,bash,docker,linux,md,git,github,stackoverflow,replit" /><br>
-    </p>
-</div>
-
-<br>
-<br>
 <div align="center"> 
 <a href = "mailto:."> <img src="https://img.shields.io/badge/-Gmail-FF0000?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/tech-miguelcarvalho" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
