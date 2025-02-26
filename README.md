@@ -3,12 +3,11 @@
     <img align="left" height="200" width="999" src="https://www.forcefitnessclub.com/wp-content/uploads/2015/02/header-gradient.png">
 </div>
 
-<br><br>
-<br><br>
+<br><br><br><br><br><br><br><br><br><br><br>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=07E9C7&size=45&center=true&vCenter=true&width=1000&lines=Hello,+I'm+Miguel;19+years+old,+from+Brazil;Currently+studying+Computational+Science;Feel+free+to+explore!+%3A)](https://git.io/typing-svg)
-<br><br>
 
+<br><br><br>
 
 <div align="center"> 
     <img src="https://github-readme-stats.vercel.app/api?username=MiguelJesuino&show_icons=true&count_private=true&hide_border=true&title_color=04a1b4&icon_color=07e9a5&text_color=04a1b4&bg_color=000000" height="150" alt="Miguel Carvalho Stats"/>
