@@ -5,7 +5,7 @@
 
 <br><br><br><br><br><br><br><br><br><br><br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=07E9C7&size=45&center=true&vCenter=true&width=1000&lines=Hello,+I'm+Miguel;19+years+old,+from+Brazil;Currently+studying+Computational+Science;Feel+free+to+explore!+%3A)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=07E9C7&size=45&center=true&vCenter=true&width=1000&lines=Hello,+I'm+Miguel;19+years+old,+from+Brazil;Currently+studying+new+technologies;Feel+free+to+explore!+%3A)](https://git.io/typing-svg)
 
 <br><br><br>
 
