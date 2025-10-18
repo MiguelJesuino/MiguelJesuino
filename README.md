@@ -6,7 +6,7 @@
 <br><br><br>
 <!-- Nome e cargo -->
 <div align="left">
-  <img src="Novo Projeto (1).png" align="right">
+  <img src="presentation2.png" align="right">
 </div>
 
 <!-- Contatos -->
