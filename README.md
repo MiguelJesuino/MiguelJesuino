@@ -1,6 +1,4 @@
 <!-- Header com ícones de tecnologias -->
-<div> <img align="left" height="200" width="999" src="https://www.forcefitnessclub.com/wp-content/uploads/2015/02/header-gradient.png"> </div>
-
 
 <br><br><br>
 
