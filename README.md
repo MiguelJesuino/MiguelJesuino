@@ -23,13 +23,13 @@
 <br>
 
 <br>
-<!-- Estatísticas -->
 
+<!--
 <div align="center">
   <img height="150" widt="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelJesuino&layout=compact&hide_border=true&title_color=04a1b4&text_color=0d8d8d&bg_color=000000" alt="Linguagens mais usadas"/>
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=MiguelJesuino&show_icons=true&count_private=true&hide_border=true&title_color=04a1b4&icon_color=07e9a5&text_color=04a1b4&bg_color=000000" alt="GitHub Stats"/>
 </div>
-
+-->
 <br><br><br>
 
 
