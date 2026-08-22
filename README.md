@@ -8,9 +8,7 @@
   <img src="presentation2.png" align="right">
 </div>
 
-
-<br><br>
-
+<br><br><br>
 
 
 <!-- Contatos -->
@@ -20,9 +18,7 @@
   <a href="" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://github.com/MiguelJesuino/MiguelJesuino/README.md" target="_blank"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
-<br>
 
-<br>
 
 <!--
 <div align="center">
@@ -30,8 +26,6 @@
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=MiguelJesuino&show_icons=true&count_private=true&hide_border=true&title_color=04a1b4&icon_color=07e9a5&text_color=04a1b4&bg_color=000000" alt="GitHub Stats"/>
 </div>
 -->
-<br><br><br>
-
 
 <!-- Gráfico de contribuições -->
 <img align="left" width="1200px" src="https://www.pngkey.com/png/full/147-1471061_branding-design-development-clip-art.png">
