@@ -27,10 +27,10 @@
 -->
 
 <!-- Gráfico de contribuições -->
-<img align="left" width="1200px" src="https://www.pngkey.com/png/full/147-1471061_branding-design-development-clip-art.png">
 <div align="center">
   <img 
     src="https://github-contribution-growth-graph.qkitzero.xyz/graph/contributions?user=MiguelJesuino"
     alt="Gráfico de Contribuições"
   >
 </div>
+<img align="left" width="1200px" src="https://www.pngkey.com/png/full/147-1471061_branding-design-development-clip-art.png">
