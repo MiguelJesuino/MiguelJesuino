@@ -29,5 +29,8 @@
 <!-- Gráfico de contribuições -->
 <img align="left" width="1200px" src="https://www.pngkey.com/png/full/147-1471061_branding-design-development-clip-art.png">
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MiguelJesuino&bg_color=000000&color=07E9C7&line=07e9a5&point=0a855c&area=true&hide_border=true" alt="Gráfico de Contribuições">
+  <img 
+    src="https://github-contribution-growth-graph.qkitzero.xyz/graph/contributions?user=MiguelJesuino"
+    alt="Gráfico de Contribuições"
+  >
 </div>
